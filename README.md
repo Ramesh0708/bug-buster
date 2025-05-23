@@ -16,7 +16,7 @@ Bug Buster is a terminal-based game that simulates real AWS misconfigurations an
 ## 🚀 How to Play
 
 ```bash
-git clone https://github.com/your-username/bug-buster.git
+git clone (https://github.com/Ramesh0708/bug-buster.git)
 cd bug-buster
 python3 bug_buster.py
 
